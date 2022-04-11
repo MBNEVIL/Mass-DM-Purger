@@ -1,1 +1,1 @@
-# Mass-DM-Purger
+Instructions are in the python file.
